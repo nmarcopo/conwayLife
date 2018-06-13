@@ -2,7 +2,7 @@
 Originally submitted on November 7, 2017 to professor [Ramzi Bualuan](https://engineering.nd.edu/profiles/rbualuan)
 
 # Addendum:
-## TL;DR: Run the program with `make`, then `./playlife scene[12345].txt`
+## TL;DR: Compile the program with `make`, run with `./playlife scene[12345].txt`
 This course was the first computer science course I took at Notre Dame. I learned the basics of C++ and developed a strong foundation for CS as a whole. The class was structured so that we had a project every week, with each week getting more and more complex. The "Conway's Game of Life" project was the beginning of the more complex projects, where we needed to use a `Makefile`, header files, etc.  
 I knew about Conway's Game of Life before this project, from carykh's [YouTube channel](https://www.youtube.com/user/carykh). Check his channel out - he's a talented guy who's really good at explaining tough CS concepts.  
 Below is the original readme file I submitted to Ramzi; I've made a few spelling changes to it. It details the functionality of the program, as well as gives the instructions for running the program in "Interactive" and "Batch" mode. Sources for my the life forms from my scene files are at the end.
